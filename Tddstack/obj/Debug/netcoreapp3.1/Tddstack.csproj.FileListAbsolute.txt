@@ -1,0 +1,13 @@
+C:\Users\csamu\source\repos\Tddstack\Tddstack\bin\Debug\netcoreapp3.1\Tddstack.exe
+C:\Users\csamu\source\repos\Tddstack\Tddstack\bin\Debug\netcoreapp3.1\Tddstack.deps.json
+C:\Users\csamu\source\repos\Tddstack\Tddstack\bin\Debug\netcoreapp3.1\Tddstack.runtimeconfig.json
+C:\Users\csamu\source\repos\Tddstack\Tddstack\bin\Debug\netcoreapp3.1\Tddstack.runtimeconfig.dev.json
+C:\Users\csamu\source\repos\Tddstack\Tddstack\bin\Debug\netcoreapp3.1\Tddstack.dll
+C:\Users\csamu\source\repos\Tddstack\Tddstack\bin\Debug\netcoreapp3.1\Tddstack.pdb
+C:\Users\csamu\source\repos\Tddstack\Tddstack\obj\Debug\netcoreapp3.1\Tddstack.csprojAssemblyReference.cache
+C:\Users\csamu\source\repos\Tddstack\Tddstack\obj\Debug\netcoreapp3.1\Tddstack.AssemblyInfoInputs.cache
+C:\Users\csamu\source\repos\Tddstack\Tddstack\obj\Debug\netcoreapp3.1\Tddstack.AssemblyInfo.cs
+C:\Users\csamu\source\repos\Tddstack\Tddstack\obj\Debug\netcoreapp3.1\Tddstack.csproj.CoreCompileInputs.cache
+C:\Users\csamu\source\repos\Tddstack\Tddstack\obj\Debug\netcoreapp3.1\Tddstack.dll
+C:\Users\csamu\source\repos\Tddstack\Tddstack\obj\Debug\netcoreapp3.1\Tddstack.pdb
+C:\Users\csamu\source\repos\Tddstack\Tddstack\obj\Debug\netcoreapp3.1\Tddstack.genruntimeconfig.cache
